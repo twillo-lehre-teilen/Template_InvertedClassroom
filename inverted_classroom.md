@@ -95,3 +95,53 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 7. Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Lernmodul Phasen entsprechend Ihren wünschen eingestellt ist.
 
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
+
+## Kursinformationen
+<p>
+**Regieanweisungen für Lehrende**
+
+In diesem Bereich werden alle kursrelevanten Informationen für die Studierenden hinterlegt. Ziel ist es, dass Studierende sich in die sowohl organisatorische als auch thematische Ausrichtung Ihres Kurses einlesen und einstimmen können. Inverted Classroom kann nur gelingen, wenn Studierende Verantwortung für ihren eigenen Lernprozess übernehmen und ein verstärktes Bewusstsein für die eigenen Lernfortschritte entwickeln. Stellen Sie also ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Lernprozessbegleiter:in deutlich. (Sie können hierfür den Foliensatz Inverted Classroom nutzen, der das Prinzip des Lehr- und Lernkonzepts vorstellt.)
+
+Machen Sie die Komponenten des Constructive Alignement für Ihre Studierenden transparent. Für die Bereitstellung der Informationen können verschiedene Formate und Aktivitäten, die das Lernmanagementsystem (LMS) bietet, genutzt werden. Die KursInformationen können mithilfe eines Steckbriefs hinterlegt werden. Folgende Aspekte können in dem Steckbrief aufgeführt werden.
+
+**Inhalte & Schwerpunkte**
+
+Benennen Sie hier die Inhalte und Schwerpunkte Ihrer Veranstaltung. Diese können mit den inhaltlichen Zielen kombiniert oder verfeinert werden. Formulieren Sie die Lernziele so, dass erkenntlich wird, welches Wissen oder welche Kompetenzen nach Abschluss der Veranstaltung erworben sein sollten. Die Ziele können zum Beispiel in einfache prägnante Sätzen gefasst werden oder als Aufzählung angeordnet werden. Zentral ist, dass Sie von den formulierten Lernzielen die Inhalte ableiten.
+
+Weiterführende Literatur zum Constructive Alignment finden Sie hier:
+
+*  https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html
+*  https://www.uni-konstanz.de/typo3temp/secure_downloads/58441/0/8428a16dc328025efae548d1f1dac89affe646af/Handreichung_Kompetenzorientiert_Pruefen_Konstanz.pdf
+
+**Prüfungsform, Leistungsnachweise & Kriterien**
+
+Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer Veranstaltung erbringen müssen, hinterlegen Sie die Anforderungen. Benennen Sie hierfür die Prüfungsform und worin die Prüfung besteht. Welche Produkte müssen die Studierenden einreichen? Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Beispiel: Fordern Sie von den Teilnehmenden einen Essay zu schreiben, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit.
+
+-----------------------------
+</p>
+
+**In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
+
+**Inhalte & Schwerpunkte der Veranstaltung:**<br>
+**Lernziele:<br>**
+**Prüfungsform & Leistungsnachweise:**<br>
+**Hinweise zu den Bewertungskriterien:**<br>
+**Semesterfahrplan mit Grobplanung der Veranstaltung**<br>
+**Fahrplan**<br>
+
+<!--  style = "color:red;" -->
+[Datei] einfügen
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎ **Arbeitsauftrag:**
+
+**Schauen Sie sich den Fahrplan an und notieren Sie Aspekte, die Ihnen zu den Inhalten und zur Organisation einfallen. Sie können sich an folgenden Leitfragen orientieren:**
+
+*  Mit welchen Stichworten zu den Inhalten können Sie bereits etwas anfangen?
+*  Was ist Ihnen bereits aus anderen Kursen bekannt?
+*  Was ist neu für Sie?
+*  Gibt es Themen oder Aspekte die fehlen?
+
+Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
+</div>

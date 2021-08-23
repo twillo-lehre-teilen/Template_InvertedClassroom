@@ -7,4 +7,25 @@
   - Die Regieanweisungen bleiben immer sichtbar innerhalb von GitHub!
 -->
 
-# Template - Problembasiertes Lernen
+# Template - Inverted Classroom
+
+- [Lizenzhinweis](#2)
+
+- [Informationen für Lehrende](#2)
+
+  - [Was versteht man unter *Inverted Classroom*?](#2)
+  - [Hinweise zur Nutzung des Templates](#2)
+
+- [Kursinformation](#3)
+
+- [Einstieg](#4)
+
+- [Themenblock 1](#5)
+
+- [Evaluation](#6)
+
+- [Prüfungsvorbereitung](#7)
+
+  - [Prüfung](#7)
+
+- [Abschluss/Ergebnissicherung](#8)

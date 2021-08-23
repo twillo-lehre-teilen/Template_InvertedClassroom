@@ -29,3 +29,10 @@
   - [Prüfung](#7)
 
 - [Abschluss/Ergebnissicherung](#8)
+
+
+## Lizenzhinweis
+
+Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
+
+## Informationen für Lehrende

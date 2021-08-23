@@ -64,18 +64,17 @@ In unserem [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodengloss
 
 **Literatur**
 
-**Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018)**: E-Learning Handbuch. Lehren und Lernen mit digitalten Medien. Bielefeld.
+*Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018): E-Learning Handbuch. Lehren und Lernen mit digitalten Medien. Bielefeld.*
 
-**Dainton, N. (2018):** Feedback in der Hochschullehre. Bern.
+*Dainton, N. (2018): Feedback in der Hochschullehre. Bern.*
 
-**Handke, J. (2017):** Handbuch Hochschullehre Digital. Leitfaden für eine moderne und mediengerechte Lehr. Baden-Baden.
+*Handke, J. (2017): Handbuch Hochschullehre Digital. Leitfaden für eine moderne und mediengerechte Lehr. Baden-Baden.*
 
-**den Ouden, H./Rottlaender, E.-M. (2017):** Hochschuldidaktik in der Praxis: Lehrveranstaltungen planen. Ein Workbook. Opladen, Toronto.
+*den Ouden, H./Rottlaender, E.-M. (2017): Hochschuldidaktik in der Praxis: Lehrveranstaltungen planen. Ein Workbook. Opladen, Toronto.*
 
-**Ruhr-Universität Bochum (o.J.):** Inverted Classroom. Lehre Laden. Downloadcenter für inspirierte Lehre, abrufbar unter: https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/inverted-classroom/was-ist-inverted-classroom/ (26.07.2021).
+*Ruhr-Universität Bochum (o.J.): Inverted Classroom. Lehre Laden. Downloadcenter für inspirierte Lehre, abrufbar unter: https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/inverted-classroom/was-ist-inverted-classroom/ (26.07.2021).*
 
-**Schäfer, A. M. (2012):** Das Inverted Classroom Model. In: Handke, J./Sperl, A. (Hrsg.): Das Inverted Classroom Model: Begleitband Zur Ersten Deutschen ICM-Konferenz. Münster, Oldenburg.
-
+*Schäfer, A. M. (2012): Das Inverted Classroom Model. In: Handke, J./Sperl, A. (Hrsg.): Das Inverted Classroom Model: Begleitband Zur Ersten Deutschen ICM-Konferenz. Münster, Oldenburg.*
 
 ## Hinweise zur Nutzung des Templates
 

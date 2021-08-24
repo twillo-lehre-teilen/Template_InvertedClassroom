@@ -26,7 +26,7 @@
 
 - [Prüfungsvorbereitung](#9)
 
-  - [Prüfung](#10)
+- [Prüfung](#10)
 
 - [Abschluss/Ergebnissicherung](#11)
 
@@ -116,9 +116,9 @@ Weiterführende Literatur zum Constructive Alignment finden Sie hier:
 **Prüfungsform, Leistungsnachweise & Kriterien**
 
 Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer Veranstaltung erbringen müssen, hinterlegen Sie die Anforderungen. Benennen Sie hierfür die Prüfungsform und worin die Prüfung besteht. Welche Produkte müssen die Studierenden einreichen? Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Beispiel: Fordern Sie von den Teilnehmenden einen Essay zu schreiben, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit.
-
------------------------------
 </p>
+
+-----------------------------------------
 
 **In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
 
@@ -202,6 +202,8 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 *  Stiften Sie **Sinn und Anknüpfungspunkte**, sodass Studierende einen persönliche Verbindung zum Gegenstand/ Inhalt/ Fach etc. herstellen können.
 </p>
 
+----------------------------------
+
 Ziel dieser Sitzung ist es, Sie über die Lehrinhalte, Ziele, Prüfungsmodalitäten und Ablauf der Veranstaltung zu informieren.
 
 Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sitzung lesen Sie sich bitte die Kursinformationen durch und bearbeiten Sie den Arbeitsauftrag, der dort hinterlegt ist.
@@ -221,6 +223,8 @@ Da im Hochschulkontext von einer heterogenen Lerngruppe auszugehen ist, können 
 
 Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
 </p>
+
+--------------------------------
 
 **Digitale Selbstlernphase**
 
@@ -296,3 +300,90 @@ Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht f
 *  Gallery-Walk
 *  Hörsaalspiele (Lernen durch Spielen)
 *  Vorstellung von Ergebnissen aus der asynchronen Selbstlernphase: (Lernen durch Lehren)
+
+## Evaluation
+<p>
+**Regieanweisungen für Lehrende**
+
+Die Evaluation von Bildungsprozessen kann - abhängig von ihrer Ausrichtung - unterschiedliche Funktionen haben. Sie kann eine Kontroll-, Legitimations-, Erkenntnis- oder Entwicklungsfunktion erfüllen (vgl. Arnold et al. 2018: 395) und hilfreiche Informationen für die Weiterentwicklung einer Lehrveranstaltung bieten. Neben den an Hochschulen etablierten standardisierten Lehrevaluationen gibt es weitere Möglichkeiten gezielt Informationen zu den Lehr- und Lernprozessen im Rahmen der Lehrveranstaltung einzuholen. Gerade für das Lehr- und Lernkonzept Inverted Classroom ist es notwendig, nach den Lernprozessen zu fragen, um die Selbstwahrnehmung und die Verantwortungsübernahme der Studierenden innerhalb des Lernprozesse zu reflektieren. Darüber hinaus können Sie gezielt Feedback zu den bereitsgestellten Lehr- und Lernmaterialien einholen.
+
+Integrieren Sie regelmäßig Feedbackmethoden in die Vertiefungsphase, um Rückmeldungen aus der Gruppe zu erhalten. Fragen Sie hierbei, ob die bereitgestellten Inhalte angemessen und hilfreich waren.
+
+Evaluations- und Feedbackphasen können die Lehr- und Lernprozesse innerhalb der Lehrveranstaltung verbessern, wenn Sie zielgerichtet und gegenstandsbezogen eingesetzt werden. Arnold et al. (2018) nennen unterschiedliche Aspekte, auf die sich Rückmeldungen beziehen kann: "Akzeptanz, Lernziele, Lerninhalte, Mediendidaktik, Lernprodukte, Lernkompetenz, Lernleitungen, Lernzeit, Lernhandlung, Lernwirksamkeit, Betreuung, Kommunikation, Kooperation, Partizipation, Geschlechterunterschiede, Kosten-nutzen- Verhältnis" (Arnold 2018: 398 f.).
+
+Die Darlegun der Zielsetzung stellt eine wichtige Grundlage für das Einholen von Rückmeldungen dar: Legen Sie der Lerngruppe offen, aus welchem Grund Sie eine Umfrage zur Lehrveranstaltung durchführen, einen Reflexionsbogen einsetzen oder ein Gespräch im Plenum anleiten. Folgende Leitfragen rund um den Einsatz und die Umsetzung von Rückmeldungen können Sie bei der Planung und Auswahl von Evaluations-/Feedbackmethoden unterstützen:
+
+1.  Was ist das Ziel (Invervention, Lernintentionen, Lernziele abfragen, Erfolgskriterien für den Lernprozess, Selbstbewertung/-einschätzung, Orientierung, Lehr- Lernatmosphäre) der Evaluation?
+2.  Aus welchem Grund wird Feedback eingeholt (Verbesserung der Lehre, Verbesserung der Lernprozesse, Bedarfsermittlung für optimales Lernen, Lehrstoffvermittlung, Probleme ermitteln)?
+3.  Welche Rahmenbedingungen gilt es zu beachten (Gruppengröße, Zeitaspekte etc.)?
+4.  Wann wird das Feedback eingeholt (proaktiv, formativ oder summativ - in der Planungsphase, in der Durchführungsphase, Ergebnisphase)?
+5.  Wie wird das Feedback eingeholt (mündlich, schriftlich, öffentlich, anonym)?
+6.  Welche Werkzeuge stehen zur Verfügung (Lernzielkontrolle, Checkliste, Fragebogen, Wissenstest, Tafelbild, Skalierungen, Lerntagebuch)?
+7.  Welche Methode ist angemessen (Blitzlicht, Impulssätze, Fünf Finger Feedback-Methode, Zukunftswerkstatt, mad-glad-sad, Prozessanalyse)?
+8.  Wie oft wird Feedback eingeholt (zu jeder Einheit, drei mal im Semester)?
+9.  Was passiert mit den Rückmeldungen/Ergebnissen der Evaluation (Welche Konsequenzen werden gezogen)?
+</p>
+
+---------------------------------
+
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu evaluieren, um ...
+
+*  den erreichten Lernstand zu bewerten,
+*  die Anforderungen zu analysieren,
+*  Prozesse der Erkenntnisgewinnung zu bewerten,
+*  die Passung der Lernmatierialien für die asynchrone Selbstlernphase zu überprüfen und/oder
+*  die aktive Zusammenarbeit in der synchronen Vertiefungsphase (Plenum) zu verbessern.
+</div>
+
+## Prüfungsvorbereitung
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel dieser Phase ist es, die Studierende bestmöglich auf die Prüfung vorzubereiten.
+
+Planen Sie hierfür am ehesten vor dem Prüfungstermin ein Zeitfenster ein, um einerseits über die Regularien, Inhalte und Anforderungen zu informieren und andererseits um offene Fragen von den Studierenden zubeantworten.
+
+Sie können hier zusätzlich die Themen der Prüfung hinterlegen oder Materialien zur Vorbereitung bereitstellen (Probeklausuren, Musterlösungen, Best-Practice-Beispielergebnisse, Leitfäden, Checklisten, Kriterienkatalog etc.).
+</p>
+
+----------------------------------------------
+
+## Prüfung
+<p>
+**Regieanweisungen für Lehrende**
+
+Je nachdem wie Ihre Prüfung konzpiert ist, können Sie diesen Bereich zur Bereitstellung von Unterlagen nutzen (z.B. Multiple-Choise-Test im LMS oder die Breitstellung von Online-Klausuren.) Zudem können alle organisatorischen Informationen zur Prüfung (Datum, zeitlicher Umfang, Prüfungsort, Prüfungsablauf, Art der Prüfung, Anzahl der Aufgaben, etc.) hinterlegt werden.
+</p>
+
+## Abschlussphase/Ergebnissicherung
+<p>
+**Regieanweisung für Lehrende**
+
+Ziel dieser letzten Sitzung ist es, mit Rückbezug auf den Einstieg die gesamte Lerhveranstaltung zu rahmen. Hierbei werden a) Semesterinhalte rekapituliert, b) der rote Faden der Veranstaltung nachgezeichnet, c) die intendierten Lernziele aufgegriffen und d) Ergebnisse gesichert. Abschließend wird eine Bilianz gezogen und die gemeinsame Arbeit begutachtet. Zur Abschlussphase gehört es zudem, die Veranstaltung mit einer Verabschiedung zu schließen.
+
+Nach Möglichkeit sollte diese Phase in Präsenz stattfinden.
+
+Die Autor:innen den Ouden und Rottlaender (2017) nennen in ihrem Arbeitsbuch zur Lehrveranstaltungsplanung zentrale didaktische Funktionen, die auch für die Abschlusssitzung wichtig sein können:
+
+*  *Abschließen* kann in Bezug auf die letzte Sitzung bedeuten, dass die zentralen Ergebnisse von der Lehrperson zusammengefasst und in Zusammenhänge oder andere Kontexte eingeordnet werden.
+*  *Sichern* kann sich auf die Lernzielerreichung der gesamten Lehrveranstaltung beziehen, wobei das Gelernte konkret auf Anwendungs-, Umsetzungs-, Transferbezüge hin überprüft werden kann.
+  *Öffnen* kann im Rahmen der letzten Sitzung auch Anregen bedeuten, sodass über den Tellerrand bzw. über die Lehrveranstaltung hinaus geschaut wird.
+
+Sichern Sie die Informationen der Sitzung für die Lerngruppe. Sollten Ergebnisse aus der Gruppe generiert werden, können diese im Nachgang digital zur Verfügung bereit werden.  So haben die Studierenden entweder im Rahmen und Verlauf ihres Studiums die Möglichkeit auf die Kernaspekte des Kurses zuzugreifen oder die Zusammenfassungen der Lehrveranstaltung konkret zur Prüfungsvorbereitung zu nutzen.
+
+<!--  style = "background-color: #F25B68; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  ⚠️ Wichtig:
+
+Sie als Lehrperson gestalten den (Bilanzierungs-)Prozess. Das Schreiben einer Prüfung am Ende des Semesters stellt keine Abschlussphase dar.
+</div>
+</p>
+
+---------------------------------
+
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+Ziel dieser Abschlusssitzung ist es, ...
+</div>

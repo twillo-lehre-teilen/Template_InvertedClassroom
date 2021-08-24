@@ -98,6 +98,8 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 
 ## Kursinformationen
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 In diesem Bereich werden alle kursrelevanten Informationen für die Studierenden hinterlegt. Ziel ist es, dass Studierende sich in die sowohl organisatorische als auch thematische Ausrichtung Ihres Kurses einlesen und einstimmen können. Inverted Classroom kann nur gelingen, wenn Studierende Verantwortung für ihren eigenen Lernprozess übernehmen und ein verstärktes Bewusstsein für die eigenen Lernfortschritte entwickeln. Stellen Sie also ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Lernprozessbegleiter:in deutlich. (Sie können hierfür den Foliensatz Inverted Classroom nutzen, der das Prinzip des Lehr- und Lernkonzepts vorstellt.)
@@ -116,6 +118,7 @@ Weiterführende Literatur zum Constructive Alignment finden Sie hier:
 **Prüfungsform, Leistungsnachweise & Kriterien**
 
 Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer Veranstaltung erbringen müssen, hinterlegen Sie die Anforderungen. Benennen Sie hierfür die Prüfungsform und worin die Prüfung besteht. Welche Produkte müssen die Studierenden einreichen? Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Beispiel: Fordern Sie von den Teilnehmenden einen Essay zu schreiben, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit.
+</div>
 </p>
 
 -----------------------------------------
@@ -148,6 +151,8 @@ Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
 
 ## Einstieg
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 Ziel dieser Phase ist es, den Studierenden den organisatorischen Ablauf und damit verbundenen Erwartungen transparent zu machen sowie einen inhaltlichen Einstieg in den Kurs und deren thematische Ausrichtung zu ermöglichen.
@@ -200,6 +205,7 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 *  Aktivieren Sie das **Vorwissen** der Studierenden ( [Wer wird Millionär](https://www.patternpool.de/pattern/abstimmungssysteme-wer-wird-millionaer/), [Jeopardy](https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f))
 *  Aktivieren Sie **Visionen** bei den Studierenden. Beispielfragen: Wie ist das Personal in 20/50/100 Jahren in diesem Bereich aufgestellt? Wozu brauche ich dieses Fach für das Berufsleben?
 *  Stiften Sie **Sinn und Anknüpfungspunkte**, sodass Studierende einen persönliche Verbindung zum Gegenstand/ Inhalt/ Fach etc. herstellen können.
+</div>
 </p>
 
 ----------------------------------
@@ -213,6 +219,8 @@ Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sit
 
 ## Themenblock 1
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 Für jeden Themenblock werden spezifische Lernziele formuliert und für die Studierenden sichtbar eingetragen. Dies schafft Transparenz und dient als Orientierung.
@@ -222,6 +230,7 @@ Für die **asynchrone Inhaltserarbeitung** müssen passend zum Ziel Inhalte bere
 Da im Hochschulkontext von einer heterogenen Lerngruppe auszugehen ist, können mehrere unterschiedliche Materialien und begleitende Aufgabenstellungen bereitgestellt werden, aus denen die Studierenden wählen können. Differenzieren Sie in Pflichtaufgaben und Zusatzaufgaben, in Schwierigkeitsgrade oder in Basis- und erweiterte Aufgaben oder geben Sie weiterführende Links/ Materialien an.
 
 Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
+</div>
 </p>
 
 --------------------------------
@@ -303,6 +312,8 @@ Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht f
 
 ## Evaluation
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 Die Evaluation von Bildungsprozessen kann - abhängig von ihrer Ausrichtung - unterschiedliche Funktionen haben. Sie kann eine Kontroll-, Legitimations-, Erkenntnis- oder Entwicklungsfunktion erfüllen (vgl. Arnold et al. 2018: 395) und hilfreiche Informationen für die Weiterentwicklung einer Lehrveranstaltung bieten. Neben den an Hochschulen etablierten standardisierten Lehrevaluationen gibt es weitere Möglichkeiten gezielt Informationen zu den Lehr- und Lernprozessen im Rahmen der Lehrveranstaltung einzuholen. Gerade für das Lehr- und Lernkonzept Inverted Classroom ist es notwendig, nach den Lernprozessen zu fragen, um die Selbstwahrnehmung und die Verantwortungsübernahme der Studierenden innerhalb des Lernprozesse zu reflektieren. Darüber hinaus können Sie gezielt Feedback zu den bereitsgestellten Lehr- und Lernmaterialien einholen.
@@ -322,6 +333,7 @@ Die Darlegun der Zielsetzung stellt eine wichtige Grundlage für das Einholen vo
 7.  Welche Methode ist angemessen (Blitzlicht, Impulssätze, Fünf Finger Feedback-Methode, Zukunftswerkstatt, mad-glad-sad, Prozessanalyse)?
 8.  Wie oft wird Feedback eingeholt (zu jeder Einheit, drei mal im Semester)?
 9.  Was passiert mit den Rückmeldungen/Ergebnissen der Evaluation (Welche Konsequenzen werden gezogen)?
+</div>
 </p>
 
 ---------------------------------
@@ -339,6 +351,8 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 
 ## Prüfungsvorbereitung
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 Ziel dieser Phase ist es, die Studierende bestmöglich auf die Prüfung vorzubereiten.
@@ -346,19 +360,25 @@ Ziel dieser Phase ist es, die Studierende bestmöglich auf die Prüfung vorzuber
 Planen Sie hierfür am ehesten vor dem Prüfungstermin ein Zeitfenster ein, um einerseits über die Regularien, Inhalte und Anforderungen zu informieren und andererseits um offene Fragen von den Studierenden zubeantworten.
 
 Sie können hier zusätzlich die Themen der Prüfung hinterlegen oder Materialien zur Vorbereitung bereitstellen (Probeklausuren, Musterlösungen, Best-Practice-Beispielergebnisse, Leitfäden, Checklisten, Kriterienkatalog etc.).
+</div>
 </p>
 
 ----------------------------------------------
 
 ## Prüfung
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisungen für Lehrende**
 
 Je nachdem wie Ihre Prüfung konzpiert ist, können Sie diesen Bereich zur Bereitstellung von Unterlagen nutzen (z.B. Multiple-Choise-Test im LMS oder die Breitstellung von Online-Klausuren.) Zudem können alle organisatorischen Informationen zur Prüfung (Datum, zeitlicher Umfang, Prüfungsort, Prüfungsablauf, Art der Prüfung, Anzahl der Aufgaben, etc.) hinterlegt werden.
+</div>
 </p>
 
 ## Abschlussphase/Ergebnissicherung
 <p>
+<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Regieanweisung für Lehrende**
 
 Ziel dieser letzten Sitzung ist es, mit Rückbezug auf den Einstieg die gesamte Lerhveranstaltung zu rahmen. Hierbei werden a) Semesterinhalte rekapituliert, b) der rote Faden der Veranstaltung nachgezeichnet, c) die intendierten Lernziele aufgegriffen und d) Ergebnisse gesichert. Abschließend wird eine Bilianz gezogen und die gemeinsame Arbeit begutachtet. Zur Abschlussphase gehört es zudem, die Veranstaltung mit einer Verabschiedung zu schließen.
@@ -378,6 +398,7 @@ Sichern Sie die Informationen der Sitzung für die Lerngruppe. Sollten Ergebniss
   ⚠️ Wichtig:
 
 Sie als Lehrperson gestalten den (Bilanzierungs-)Prozess. Das Schreiben einer Prüfung am Ende des Semesters stellt keine Abschlussphase dar.
+</div>
 </div>
 </p>
 

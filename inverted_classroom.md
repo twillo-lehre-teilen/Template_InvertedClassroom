@@ -145,3 +145,59 @@ Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer
 
 Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
 </div>
+
+## Einstieg
+<p>
+**Regieanweisungen für Lehrende**
+
+Ziel dieser Phase ist es, den Studierenden den organisatorischen Ablauf und damit verbundenen Erwartungen transparent zu machen sowie einen inhaltlichen Einstieg in den Kurs und deren thematische Ausrichtung zu ermöglichen.
+
+Diese Phase findet in einer gemeinsamen Sitzung statt: In Präsenz oder digital als Videokonferenz. Im Folgenden werden drei zentrale Strukturierungsaspekte für die Einstiegsphase vorgestellt.
+
+**(1) Organisatorische Kursinformation**
+
+In dieser Einstiegsphase werden die bereitgestellten Kursinformationen vorgestellt und gegenseitige Erwartungen geklärt. Nutzen Sie Ihre individuelle Kursübersicht als Visualisierungshilfe. Die kann unterschiedlich gestaltet sein:
+
+*  Advance Organizer
+*  Stationen des Lernens
+*  Tabellarische Veranstaltungsübersicht
+
+**Thematisierung von Prüfungen und Leistungsnachweisen**
+
+Da die Studierenden durch die bereitgestellten Kursinformationen bereits über zu erbringende Leistungsnachweise und Prüfungen informiert sind, könnte ein Forum mit Fragen eingerichtet werden. Dies hat den Vorteil, dass Sie nicht immer die gleichen Fragen per Mail beantworten müssen. Außerdem profitieren alle Teilnehmenden von den Fragen anderer.
+
+**Vorlage für Advance Organizer**
+
+Eine Übersicht für einen wöchentlich stattfindenden Kurs im Inverted Classroom Konzept (inkl. Beispiel-Übersicht Theorien Sozialer Arbeit) finden Sie im OER-Portal twillo unter diesem Link: [https://www.twillo.de/edu-sharing/components/render/07e79401-7365-443c-a04a-8e90a22507d7/](https://www.twillo.de/edu-sharing/components/render/07e79401-7365-443c-a04a-8e90a22507d7/)
+
+
+**(2) Seminarstruktur**
+
+In der Einstiegsphase sollte auch das didaktische Vorgehen thematisiert werden.
+
+Für das Lernen im Inverted Classroom Konzept ist es erforderlich, dass Studierende Verantwortung für ihren eigenen Lernprozess übernehmen. Die im Konzept verankerten asynchronen Selbstlernphasen dienen dabei der individuellen Wissensaneignung. Die Bedeutung und die Gelingensbedingungen des Selbststudiums müssen den Studierenden bewusst gemacht werden, da die Phase die zentrale Voraussetzung bildet, um erfolgreich an den synchron stattfindenen Lehr-/Lernsettings teilzunehmen. Stellen Sie der Lerngruppe das Konzept des Inverted Classrooms vor und verdeutlichen Sie die Anforderungen.
+
+Hierfür können Sie den Foliensatz Inverted Classroom nutzen: Sie finden den Foliensatz unter diesem Link: [https://www.twillo.de/edu-sharing/components/render/c48e52d1-0bf0-4a16-96cb-4e4cc0f0f6ce/](https://www.twillo.de/edu-sharing/components/render/c48e52d1-0bf0-4a16-96cb-4e4cc0f0f6ce/)
+
+Der Foliensatz ist darauf ausgerichtet, Studierende auf die Lehrveranstaltung vorzubereiten. Inverted Classroom erfordert ein hohes Maß an Lernmotivation und Eigenverantwortung im Hinblick auf das selbstgesteuerte Lernen (vgl. Handke 2017: 61) und sollte deshalb zu Beginn der Lehrveranstaltung thematisiert werden. In einem vorangelegten Foliensatz wird die Grundidee des Lehr- und Lernkonzepts beschrieben und Voraussetzungen für das erfolgreiche Lernen dargestellt. Der Foliensatz kann mit Inhalten und weiteren Aspekten, die Ihnen wichtig sind, angereichert werden. Der Foliensatz besteht aus neun Folien und folgt dieser Struktur:
+
+*  Titelfolie
+*  Impuls: Video von Spannagel
+*  Traditionelle Lehre (Merkmale und Anforderungen)
+*  Umgedrehte Lehre (Merkmale und Anforderungen)
+*  Vorteile für Studierende durch Inverted Classroom
+*  Gelingensbedingungen
+*  Semesterverlauf
+*  Literatur
+
+In den Notizen befinden sich Regieanweisungen mit Hinweisen zur individuellen Anpassung.
+
+**(3) Inhaltlicher Einstieg**
+
+In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier können unterschiedliche Strategien zur Einführung gewählt werden:
+
+*  Fassen Sie aus Ihrer **persönlichen Sicht** thesenartig die wichtigsten Erkenntnisse/Ansätze/Fragen/Errungenschaften etc. zum Thema zusammen und stellen Sie sie  der Gruppe dar
+*  Aktivieren Sie das **Vorwissen** der Studierenden ( [Wer wird Millionär](https://www.patternpool.de/pattern/abstimmungssysteme-wer-wird-millionaer/), [Jeopardy](https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f))
+*  Aktivieren Sie **Visionen** bei den Studierenden. Beispielfragen: Wie ist das Personal in 20/50/100 Jahren in diesem Bereich aufgestellt? Wozu brauche ich dieses Fach für das Berufsleben?
+*  Stiften Sie **Sinn und Anknüpfungspunkte**, sodass Studierende einen persönliche Verbindung zum Gegenstand/ Inhalt/ Fach etc. herstellen können.
+</p>

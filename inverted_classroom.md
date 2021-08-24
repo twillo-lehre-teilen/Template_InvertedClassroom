@@ -11,24 +11,24 @@
 
 - [Lizenzhinweis](#2)
 
-- [Informationen für Lehrende](#2)
+- [Informationen für Lehrende](#3)
 
-  - [Was versteht man unter *Inverted Classroom*?](#2)
-  - [Hinweise zur Nutzung des Templates](#2)
+  - [Was versteht man unter *Inverted Classroom*?](#3)
+  - [Hinweise zur Nutzung des Templates](#4)
 
-- [Kursinformation](#3)
+- [Kursinformation](#5)
 
-- [Einstieg](#4)
+- [Einstieg](#6)
 
-- [Themenblock 1](#5)
+- [Themenblock 1](#7)
 
-- [Evaluation](#6)
+- [Evaluation](#8)
 
-- [Prüfungsvorbereitung](#7)
+- [Prüfungsvorbereitung](#9)
 
-  - [Prüfung](#7)
+  - [Prüfung](#10)
 
-- [Abschluss/Ergebnissicherung](#8)
+- [Abschluss/Ergebnissicherung](#11)
 
 
 ## Lizenzhinweis
@@ -201,3 +201,98 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 *  Aktivieren Sie **Visionen** bei den Studierenden. Beispielfragen: Wie ist das Personal in 20/50/100 Jahren in diesem Bereich aufgestellt? Wozu brauche ich dieses Fach für das Berufsleben?
 *  Stiften Sie **Sinn und Anknüpfungspunkte**, sodass Studierende einen persönliche Verbindung zum Gegenstand/ Inhalt/ Fach etc. herstellen können.
 </p>
+
+Ziel dieser Sitzung ist es, Sie über die Lehrinhalte, Ziele, Prüfungsmodalitäten und Ablauf der Veranstaltung zu informieren.
+
+Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sitzung lesen Sie sich bitte die Kursinformationen durch und bearbeiten Sie den Arbeitsauftrag, der dort hinterlegt ist.
+
+[Veranstaltungsübersicht Inverted Classroom mit Beispielveranstaltung]()
+[Foliensatz Inverted Classroom. Ein Lehr- und Lernkonzept (LIZENZ CC0)]()
+
+## Themenblock 1
+<p>
+**Regieanweisungen für Lehrende**
+
+Für jeden Themenblock werden spezifische Lernziele formuliert und für die Studierenden sichtbar eingetragen. Dies schafft Transparenz und dient als Orientierung.
+
+Für die **asynchrone Inhaltserarbeitung** müssen passend zum Ziel Inhalte bereitgestellt werden. Hier können diverse Medien und Materialien zum Einsatz kommen. Neben den bereitgestellten Lehr-Lernmaterialien werden auch Arbeitsaufträge oder Aufgaben zum Material hinterlegt. Diese sollten mit einer Zeitangabe (erwartbarer Zeitaufwand und Frist) versehen werden. Für die Lehre im Inverted Classroom haben sich selbst erstellte Lehrvideos als sinnvoll erwiesen (vgl. Handke 2017). Dennoch können auch andere Medienformate oder Materialien für die Inhaltserarbeitung verwendet werden. Auch die Nutzung von öffentlich zugänglichen Quellen ist bei der Bereitstellung von Materialien nützlich (Open Access Publikationen, Open Educational Resources, Repositorien AV-Portal).
+
+Da im Hochschulkontext von einer heterogenen Lerngruppe auszugehen ist, können mehrere unterschiedliche Materialien und begleitende Aufgabenstellungen bereitgestellt werden, aus denen die Studierenden wählen können. Differenzieren Sie in Pflichtaufgaben und Zusatzaufgaben, in Schwierigkeitsgrade oder in Basis- und erweiterte Aufgaben oder geben Sie weiterführende Links/ Materialien an.
+
+Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
+</p>
+
+**Digitale Selbstlernphase**
+
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+**Zielsetzung**: In dieser Einheit lernen Sie .../ beschäftigen Sie sich mit .../
+</div>
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+✎**Arbeitsauftrag:** Formulieren Sie den Arbeitauftrag bzw die Arbeitsaufträge ganz präzise.
+
+Beispiel:
+
+* 1. Schauen Sie sich das Video an und notieren Sie erste Fragen zum dargestellten Inhalt. Schauen Sie sich die Passagen, zu denen Sie Fragen haben, noch einmal an.
+
+* 2. Versuchen Sie die Kernaussage(n) aus dem Vortrag herauszuarbeiten.
+* 3. Welche Inhalte werden nicht thematisiert, die aber aus Ihrer Sicht zu thematisieren notwendig sind? Begründen Sie ihre Einschätzung (2-3 Seiten)
+* 4. Notieren Sie alle Fragen, die im Plenum beantwortet werden sollen. Die Bearbeitungsdauer dieser Arbeitsaufträge beträgt ca. 90 Minuten.
+</div>
+
+**Beispiele für geeignete Materialien:**
+
+*  (Lehr-)Videos (z.B. Vorlesungsaufzeichnungen)
+*  Erklärvideos
+*  Podcasts (z.B. Rezensionen von Basistexten)
+*  Texte (z.B. selbst verfasste, erklärende Texte)
+*  Foliensätze
+    *  Um Notizen ergänzt
+    *  Vertont (Videoaufnahme, Screencast)
+    *  Zusätzlich Vortrag bereitgestellt
+*  Multimediale Inhalte (Videos mit Quizfragen, etc.)
+*  OER: Materialien, die unter einer offenen Lizenz stehen, können in Ihre eigene Lehre integriert werden
+
+**Ergänzt durch Aufgaben zur Vorbereitung der synchronen Vertiefungsphase**
+
+*  Worksheets (darin explizit auffordern: Wenn Fragen auftauchen, dann sollen diese notiert werden)
+*  Fragenkatalog
+*  Schriftlich festgehaltene Verständnisprobleme (digital im Forum oder auf Papier)
+*  Quizze
+*  Kontrollfragen (ggf. im Lernvideo eingeblendete Fragen zum Beantworten (h5p) )
+*  Selbsteinschätzungstest
+
+**Synchrone Vertiefungsphase**
+
+In dieser Sitzung sollen die Ergebnisse aus der asynchronen Selbstlernphase vertieft werden. Konkretisieren Sie hierfür die inhaltliche Zielsetzungen: Was soll in der Präsenzphase wie erreicht werden? Welche Lernhandlungen stehen im Vordergrund (Vertiefen, Aktivieren, Anwenden, Trainieren, Bewerten etc.)?
+
+Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht folgende Aktivitäten vor:
+
+15 Minuten | Fragerunde
+30 Minuten | Beweisführung o. ä.
+30 Minuten | Pro-Contra-Diskussion
+15 Minuten | Zusammenfassung
+
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+💡 **Tipp**: Geben Sie in Präsenz keine Zusammenfassung der online vermittelten Inhalte. Aktivieren Sie das kreative Potenzial der Studierenden und unterstützen Sie das Lernen durch den Einsatz unterschiedlicher Methoden.
+</div>
+
+**Geeignete Methoden**
+
+*  Murmelgruppe
+*  Pro-Kontra Diskussionen im Plenum
+*  Think-Pair-Share
+*  Mad-glad-sad
+*  Expert:innenpuzzle
+*  Fallanalysen/-besprechungen
+*  Experimente und Untersuchungen
+*  Abstimmungen
+*  Stationenlernen
+*  Präsentationstraining
+*  Aktives Plenum
+*  Gallery-Walk
+*  Hörsaalspiele (Lernen durch Spielen)
+*  Vorstellung von Ergebnissen aus der asynchronen Selbstlernphase: (Lernen durch Lehren)

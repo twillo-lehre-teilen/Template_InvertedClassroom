@@ -211,8 +211,10 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 </p>
 
 ----------------------------------
-
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 Ziel dieser Sitzung ist es, Sie über die Lehrinhalte, Ziele, Prüfungsmodalitäten und Ablauf der Veranstaltung zu informieren.
+</div>
 
 Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sitzung lesen Sie sich bitte die Kursinformationen durch und bearbeiten Sie den Arbeitsauftrag, der dort hinterlegt ist.
 

@@ -97,6 +97,8 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 ## Kursinformationen
+
+![](docs/Introbild.svg)
 <p>
 <!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>

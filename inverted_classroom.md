@@ -7,12 +7,13 @@
   - Die Regieanweisungen bleiben immer sichtbar innerhalb von GitHub!
 -->
 
+
 # Template - Inverted Classroom
 
 - [Lizenzhinweis](#2)
 - [Informationen für Lehrende](#3)
 
-  - [Was versteht man unter *Inverted Classroom*?](#3)
+  - [Was versteht man unter Inverted Classroom?](#3)
   - [Hinweise zur Nutzung des Templates](#4)
 
 - [Kursinformation](#5)
@@ -27,7 +28,8 @@
 
 Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
 
-##  Was versteht man unter *Inverted Classroom*?
+
+##  Was versteht man unter Inverted Classroom?
 
 Inverted Classroom ist ein spezifisches Lehr- und Lernkonzept des Blended Learning. Im Kern geht es darum, einer synchron stattfindenen Plenumssitzung eine asynchrone Selbstlernphase vorzuschalten. Die Inhaltserschließung erfolgt als asynchrone Selbstlernphase über ausgewählte und bereitgestellte bzw.  selbst erstellte Lehr- und Lernmaterialien. Mittels der Materialien eignen sich die Studierenden im Rahmen des Selbststudiums die Inhalte individuell und entsprechend ihres Lerntempos (und ggf. auch -niveaus) an. Die Phase der Inhaltsvertiefung findet in Präsenz bzw. in einem synchronen Setting statt. Sie wird von der Lehrperson moderiert  durch geeignete Lehrmethoden, die die Interaktivität der Studierenden fördern, didaktisch aufbereitet.
 
@@ -118,7 +120,8 @@ Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer
 
 -----------------------------------------
 
-<h3>**In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**</h3>
+**In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
+=============================================================================================
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -236,7 +239,8 @@ Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sit
 
 -------
 
-<h3>**Digitale Selbstlernphase**</h3>
+**Digitale Selbstlernphase**
+============================
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -286,7 +290,8 @@ Beispiel:
 
 -------------
 
-<h3>**Synchrone Vertiefungsphase**</h3>
+**Synchrone Vertiefungsphase**
+==============================
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>

@@ -117,10 +117,10 @@ Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer
 
 -----------------------------------------
 
+<h3>**In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**</h3>
+
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-  **In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
-
   **Inhalte & Schwerpunkte der Veranstaltung:**<br>
   **Lernziele:<br>**
   **Prüfungsform & Leistungsnachweise:**<br>

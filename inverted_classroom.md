@@ -10,26 +10,15 @@
 # Template - Inverted Classroom
 
 - [Lizenzhinweis](#2)
-
-- [Informationen für Lehrende](#3)
-
-  - [Was versteht man unter *Inverted Classroom*?](#3)
-  - [Hinweise zur Nutzung des Templates](#4)
-
+- [Was versteht man unter *Inverted Classroom*?](#3)
+- [Hinweise zur Nutzung des Templates](#4)
 - [Kursinformation](#5)
-
-- [Einstieg](#6)
-
+- [Einstiegsphase](#6)
 - [Themenblock 1](#7)
-
 - [Evaluation](#8)
-
 - [Prüfungsvorbereitung](#9)
-
 - [Prüfung](#10)
-
-- [Abschluss/Ergebnissicherung](#11)
-
+- [Abschlussphase/Ergebnissicherung](#11)
 
 ## Lizenzhinweis
 
@@ -40,6 +29,10 @@ Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist 
 **Was versteht man unter *Inverted Classroom*?**
 
 Inverted Classroom ist ein spezifisches Lehr- und Lernkonzept des Blended Learning. Im Kern geht es darum, einer synchron stattfindenen Plenumssitzung eine asynchrone Selbstlernphase vorzuschalten. Die Inhaltserschließung erfolgt als asynchrone Selbstlernphase über ausgewählte und bereitgestellte bzw.  selbst erstellte Lehr- und Lernmaterialien. Mittels der Materialien eignen sich die Studierenden im Rahmen des Selbststudiums die Inhalte individuell und entsprechend ihres Lerntempos (und ggf. auch -niveaus) an. Die Phase der Inhaltsvertiefung findet in Präsenz bzw. in einem synchronen Setting statt. Sie wird von der Lehrperson moderiert  durch geeignete Lehrmethoden, die die Interaktivität der Studierenden fördern, didaktisch aufbereitet.
+
+**Gelingensbedingungen für die Umsetzung**
+
+Für die Gestaltung und Umsetzung des Inverted Classroom Konzepts gibt es für beide Phasen zentrale Anforderungen, die Lehrende bei der Planung beachten sollten: Während für die asynchrone Selbstlernphase primär die Auswahl der bereitzustellenden Materialien im Vordergrund steht, gilt es für die Planung der synchronen Lehr- Lernsettings stärker darum, didaktisch-methodische Abläufe für das Vertiefen, Routinisieren, Anwenden etc. zu bestimmen. Folgende zentrale Anforderungen sind zu beachten:
 
 **Bereitstellung der Materialien für die asynchrone Selbstlernphase**
 
@@ -64,17 +57,17 @@ In unserem [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodengloss
 
 **Literatur**
 
-*Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018): E-Learning Handbuch. Lehren und Lernen mit digitalten Medien. Bielefeld.*
+*__Arnold, P./Kilian, L./Thillosen, A./Zimmer, G. (2018):__ E-Learning Handbuch. Lehren und Lernen mit digitalten Medien. Bielefeld.*
 
-*Dainton, N. (2018): Feedback in der Hochschullehre. Bern.*
+*__Dainton, N. (2018):__ Feedback in der Hochschullehre. Bern.*
 
-*Handke, J. (2017): Handbuch Hochschullehre Digital. Leitfaden für eine moderne und mediengerechte Lehr. Baden-Baden.*
+*__Handke, J. (2017):__ Handbuch Hochschullehre Digital. Leitfaden für eine moderne und mediengerechte Lehr. Baden-Baden.*
 
-*den Ouden, H./Rottlaender, E.-M. (2017): Hochschuldidaktik in der Praxis: Lehrveranstaltungen planen. Ein Workbook. Opladen, Toronto.*
+*__den Ouden, H./Rottlaender, E.-M. (2017):__ Hochschuldidaktik in der Praxis: Lehrveranstaltungen planen. Ein Workbook. Opladen, Toronto.*
 
-*Ruhr-Universität Bochum (o.J.): Inverted Classroom. Lehre Laden. Downloadcenter für inspirierte Lehre, abrufbar unter: https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/inverted-classroom/was-ist-inverted-classroom/ (26.07.2021).*
+*__Ruhr-Universität Bochum (o.J.):__ Inverted Classroom. Lehre Laden. Downloadcenter für inspirierte Lehre, abrufbar unter: https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/inverted-classroom/was-ist-inverted-classroom/ (26.07.2021).*
 
-*Schäfer, A. M. (2012): Das Inverted Classroom Model. In: Handke, J./Sperl, A. (Hrsg.): Das Inverted Classroom Model: Begleitband Zur Ersten Deutschen ICM-Konferenz. Münster, Oldenburg.*
+*__Schäfer, A. M. (2012):__ Das Inverted Classroom Model. In: Handke, J./Sperl, A. (Hrsg.): Das Inverted Classroom Model: Begleitband Zur Ersten Deutschen ICM-Konferenz. Münster, Oldenburg.*
 
 ## Hinweise zur Nutzung des Templates
 
@@ -87,9 +80,9 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 **Schritte für eine Nachnutzung:**
 
 1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen [GitHub-Account](https://github.com/). Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
-2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/LiaScript_ForschendesLernen.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
+2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/Template_InvertedClassroom.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
-4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website]( https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
+4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
 6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende innerhalb des LiaScript Kurses zunächst für jeden sichtbar sind. Möchten Sie dies ändern, sodass die Regieanweisungen innerhalb des LiaScript Kurses für jeden unsichtbar sind, so müssen Sie die Sichtbarkeit der Regieanweisungen in jeder Phase des Lernmoduls in der Kursdatei (.md) anpassen. Die Regieanweisungen finden Sie zu Beginn jeder Lernmodul Phase, sie sind jeweils umklammert von HTML p-tags. Um die Regieanweisungen unsichtbar zu machen muss das Wort "**hidden**" dem vorangehenden p-tag hinzugefügt werden. Der unten zu sehende Screenshot zeigt wie dies innerhalb der Kursdatei (.md) aussehen würde.
 7. Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Lernmodul Phasen entsprechend Ihren wünschen eingestellt ist.
@@ -99,9 +92,9 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 ## Kursinformationen
 
 ![](docs/Introbild.svg)
-<p>
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
+<p>
 **Regieanweisungen für Lehrende**
 
 In diesem Bereich werden alle kursrelevanten Informationen für die Studierenden hinterlegt. Ziel ist es, dass Studierende sich in die sowohl organisatorische als auch thematische Ausrichtung Ihres Kurses einlesen und einstimmen können. Inverted Classroom kann nur gelingen, wenn Studierende Verantwortung für ihren eigenen Lernprozess übernehmen und ein verstärktes Bewusstsein für die eigenen Lernfortschritte entwickeln. Stellen Sie also ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Lernprozessbegleiter:in deutlich. (Sie können hierfür den Foliensatz Inverted Classroom nutzen, der das Prinzip des Lehr- und Lernkonzepts vorstellt.)
@@ -120,22 +113,25 @@ Weiterführende Literatur zum Constructive Alignment finden Sie hier:
 **Prüfungsform, Leistungsnachweise & Kriterien**
 
 Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer Veranstaltung erbringen müssen, hinterlegen Sie die Anforderungen. Benennen Sie hierfür die Prüfungsform und worin die Prüfung besteht. Welche Produkte müssen die Studierenden einreichen? Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Beispiel: Fordern Sie von den Teilnehmenden einen Essay zu schreiben, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit.
-</div>
 </p>
 
 -----------------------------------------
 
-**In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **In dieser Übersicht erhalten Sie alle kursrelevanten Informationen zur Lehrveranstaltung:**
 
-**Inhalte & Schwerpunkte der Veranstaltung:**<br>
-**Lernziele:<br>**
-**Prüfungsform & Leistungsnachweise:**<br>
-**Hinweise zu den Bewertungskriterien:**<br>
-**Semesterfahrplan mit Grobplanung der Veranstaltung**<br>
-**Fahrplan**<br>
+  **Inhalte & Schwerpunkte der Veranstaltung:**<br>
+  **Lernziele:<br>**
+  **Prüfungsform & Leistungsnachweise:**<br>
+  **Hinweise zu den Bewertungskriterien:**<br>
+  **Semesterfahrplan mit Grobplanung der Veranstaltung**<br>
+  **Fahrplan**<br>
 
-<!--  style = "color:red;" -->
-[Datei] einfügen
+  <!--  style = "color:red;" -->
+  - [Datei] einfügen
+</div>
+
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -151,10 +147,10 @@ Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer
 Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
 </div>
 
-## Einstieg
-<p>
+## Einstiegsphase
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
+<p>
 **Regieanweisungen für Lehrende**
 
 Ziel dieser Phase ist es, den Studierenden den organisatorischen Ablauf und damit verbundenen Erwartungen transparent zu machen sowie einen inhaltlichen Einstieg in den Kurs und deren thematische Ausrichtung zu ermöglichen.
@@ -207,43 +203,43 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 *  Aktivieren Sie das **Vorwissen** der Studierenden ( [Wer wird Millionär](https://www.patternpool.de/pattern/abstimmungssysteme-wer-wird-millionaer/), [Jeopardy](https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f))
 *  Aktivieren Sie **Visionen** bei den Studierenden. Beispielfragen: Wie ist das Personal in 20/50/100 Jahren in diesem Bereich aufgestellt? Wozu brauche ich dieses Fach für das Berufsleben?
 *  Stiften Sie **Sinn und Anknüpfungspunkte**, sodass Studierende einen persönliche Verbindung zum Gegenstand/ Inhalt/ Fach etc. herstellen können.
-</div>
 </p>
 
-----------------------------------
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-Ziel dieser Sitzung ist es, Sie über die Lehrinhalte, Ziele, Prüfungsmodalitäten und Ablauf der Veranstaltung zu informieren.
+  Ziel dieser Sitzung ist es, Sie über die Lehrinhalte, Ziele, Prüfungsmodalitäten und Ablauf der Veranstaltung zu informieren.
 </div>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sitzung lesen Sie sich bitte die Kursinformationen durch und bearbeiten Sie den Arbeitsauftrag, der dort hinterlegt ist.
 
-[Veranstaltungsübersicht Inverted Classroom mit Beispielveranstaltung]()
-[Foliensatz Inverted Classroom. Ein Lehr- und Lernkonzept (LIZENZ CC0)]()
+- [Veranstaltungsübersicht Inverted Classroom mit Beispielveranstaltung]()
+- [Foliensatz Inverted Classroom. Ein Lehr- und Lernkonzept (LIZENZ CC0)]()
+</div>
 
 ## Themenblock 1
-<p>
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
-**Regieanweisungen für Lehrende**
+<p>
+  **Regieanweisungen für Lehrende**
 
-Für jeden Themenblock werden spezifische Lernziele formuliert und für die Studierenden sichtbar eingetragen. Dies schafft Transparenz und dient als Orientierung.
+  Für jeden Themenblock werden spezifische Lernziele formuliert und für die Studierenden sichtbar eingetragen. Dies schafft Transparenz und dient als Orientierung.
 
-Für die **asynchrone Inhaltserarbeitung** müssen passend zum Ziel Inhalte bereitgestellt werden. Hier können diverse Medien und Materialien zum Einsatz kommen. Neben den bereitgestellten Lehr-Lernmaterialien werden auch Arbeitsaufträge oder Aufgaben zum Material hinterlegt. Diese sollten mit einer Zeitangabe (erwartbarer Zeitaufwand und Frist) versehen werden. Für die Lehre im Inverted Classroom haben sich selbst erstellte Lehrvideos als sinnvoll erwiesen (vgl. Handke 2017). Dennoch können auch andere Medienformate oder Materialien für die Inhaltserarbeitung verwendet werden. Auch die Nutzung von öffentlich zugänglichen Quellen ist bei der Bereitstellung von Materialien nützlich (Open Access Publikationen, Open Educational Resources, Repositorien AV-Portal).
+  Für die **asynchrone Inhaltserarbeitung** müssen passend zum Ziel Inhalte bereitgestellt werden. Hier können diverse Medien und Materialien zum Einsatz kommen. Neben den bereitgestellten Lehr-Lernmaterialien werden auch Arbeitsaufträge oder Aufgaben zum Material hinterlegt. Diese sollten mit einer Zeitangabe (erwartbarer Zeitaufwand und Frist) versehen werden. Für die Lehre im Inverted Classroom haben sich selbst erstellte Lehrvideos als sinnvoll erwiesen (vgl. Handke 2017). Dennoch können auch andere Medienformate oder Materialien für die Inhaltserarbeitung verwendet werden. Auch die Nutzung von öffentlich zugänglichen Quellen ist bei der Bereitstellung von Materialien nützlich (Open Access Publikationen, Open Educational Resources, Repositorien AV-Portal).
 
-Da im Hochschulkontext von einer heterogenen Lerngruppe auszugehen ist, können mehrere unterschiedliche Materialien und begleitende Aufgabenstellungen bereitgestellt werden, aus denen die Studierenden wählen können. Differenzieren Sie in Pflichtaufgaben und Zusatzaufgaben, in Schwierigkeitsgrade oder in Basis- und erweiterte Aufgaben oder geben Sie weiterführende Links/ Materialien an.
+  Da im Hochschulkontext von einer heterogenen Lerngruppe auszugehen ist, können mehrere unterschiedliche Materialien und begleitende Aufgabenstellungen bereitgestellt werden, aus denen die Studierenden wählen können. Differenzieren Sie in Pflichtaufgaben und Zusatzaufgaben, in Schwierigkeitsgrade oder in Basis- und erweiterte Aufgaben oder geben Sie weiterführende Links/ Materialien an.
 
-Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
-</div>
+  Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
 </p>
 
---------------------------------
+-------
 
-**Digitale Selbstlernphase**
+<h3>**Digitale Selbstlernphase**</h3>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-**Zielsetzung**: In dieser Einheit lernen Sie .../ beschäftigen Sie sich mit .../
+  **Zielsetzung**: In dieser Einheit lernen Sie .../ beschäftigen Sie sich mit .../
 </div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -259,6 +255,8 @@ Beispiel:
 * 4. Notieren Sie alle Fragen, die im Plenum beantwortet werden sollen. Die Bearbeitungsdauer dieser Arbeitsaufträge beträgt ca. 90 Minuten.
 </div>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Beispiele für geeignete Materialien:**
 
 *  (Lehr-)Videos (z.B. Vorlesungsaufzeichnungen)
@@ -271,7 +269,10 @@ Beispiel:
     *  Zusätzlich Vortrag bereitgestellt
 *  Multimediale Inhalte (Videos mit Quizfragen, etc.)
 *  OER: Materialien, die unter einer offenen Lizenz stehen, können in Ihre eigene Lehre integriert werden
+</div>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Ergänzt durch Aufgaben zur Vorbereitung der synchronen Vertiefungsphase**
 
 *  Worksheets (darin explizit auffordern: Wenn Fragen auftauchen, dann sollen diese notiert werden)
@@ -280,23 +281,36 @@ Beispiel:
 *  Quizze
 *  Kontrollfragen (ggf. im Lernvideo eingeblendete Fragen zum Beantworten (h5p) )
 *  Selbsteinschätzungstest
+</div>
 
-**Synchrone Vertiefungsphase**
+-------------
 
-In dieser Sitzung sollen die Ergebnisse aus der asynchronen Selbstlernphase vertieft werden. Konkretisieren Sie hierfür die inhaltliche Zielsetzungen: Was soll in der Präsenzphase wie erreicht werden? Welche Lernhandlungen stehen im Vordergrund (Vertiefen, Aktivieren, Anwenden, Trainieren, Bewerten etc.)?
+<h3>**Synchrone Vertiefungsphase**</h3>
 
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  In dieser Sitzung sollen die Ergebnisse aus der asynchronen Selbstlernphase vertieft werden. Konkretisieren Sie hierfür die inhaltliche Zielsetzungen: Was soll in der Präsenzphase wie erreicht werden? Welche Lernhandlungen stehen im Vordergrund (Vertiefen, Aktivieren, Anwenden, Trainieren, Bewerten etc.)?
+</div>
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht folgende Aktivitäten vor:
 
-15 Minuten | Fragerunde
-30 Minuten | Beweisführung o. ä.
-30 Minuten | Pro-Contra-Diskussion
-15 Minuten | Zusammenfassung
+- 15 Minuten \| Fragerunde
+- 30 Minuten \| Beweisführung o. ä.
+- 30 Minuten \| Pro-Contra-Diskussion
+- 15 Minuten \| Zusammenfassung
+</div>
 
 <!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-💡 **Tipp**: Geben Sie in Präsenz keine Zusammenfassung der online vermittelten Inhalte. Aktivieren Sie das kreative Potenzial der Studierenden und unterstützen Sie das Lernen durch den Einsatz unterschiedlicher Methoden.
+  💡 **Tipp**:
+
+  Geben Sie in Präsenz keine Zusammenfassung der online vermittelten Inhalte. Aktivieren Sie das kreative Potenzial der Studierenden und unterstützen Sie das Lernen durch den Einsatz unterschiedlicher Methoden.
 </div>
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
 **Geeignete Methoden**
 
 *  Murmelgruppe
@@ -313,11 +327,12 @@ Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht f
 *  Gallery-Walk
 *  Hörsaalspiele (Lernen durch Spielen)
 *  Vorstellung von Ergebnissen aus der asynchronen Selbstlernphase: (Lernen durch Lehren)
+</div>
 
 ## Evaluation
-<p>
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
+<p>
 **Regieanweisungen für Lehrende**
 
 Die Evaluation von Bildungsprozessen kann - abhängig von ihrer Ausrichtung - unterschiedliche Funktionen haben. Sie kann eine Kontroll-, Legitimations-, Erkenntnis- oder Entwicklungsfunktion erfüllen (vgl. Arnold et al. 2018: 395) und hilfreiche Informationen für die Weiterentwicklung einer Lehrveranstaltung bieten. Neben den an Hochschulen etablierten standardisierten Lehrevaluationen gibt es weitere Möglichkeiten gezielt Informationen zu den Lehr- und Lernprozessen im Rahmen der Lehrveranstaltung einzuholen. Gerade für das Lehr- und Lernkonzept Inverted Classroom ist es notwendig, nach den Lernprozessen zu fragen, um die Selbstwahrnehmung und die Verantwortungsübernahme der Studierenden innerhalb des Lernprozesse zu reflektieren. Darüber hinaus können Sie gezielt Feedback zu den bereitsgestellten Lehr- und Lernmaterialien einholen.
@@ -337,10 +352,8 @@ Die Darlegun der Zielsetzung stellt eine wichtige Grundlage für das Einholen vo
 7.  Welche Methode ist angemessen (Blitzlicht, Impulssätze, Fünf Finger Feedback-Methode, Zukunftswerkstatt, mad-glad-sad, Prozessanalyse)?
 8.  Wie oft wird Feedback eingeholt (zu jeder Einheit, drei mal im Semester)?
 9.  Was passiert mit den Rückmeldungen/Ergebnissen der Evaluation (Welche Konsequenzen werden gezogen)?
-</div>
 </p>
 
----------------------------------
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -354,35 +367,31 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 </div>
 
 ## Prüfungsvorbereitung
-<p>
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
-**Regieanweisungen für Lehrende**
+<p>
+  **Regieanweisungen für Lehrende**
 
-Ziel dieser Phase ist es, die Studierende bestmöglich auf die Prüfung vorzubereiten.
+  Ziel dieser Phase ist es, die Studierende bestmöglich auf die Prüfung vorzubereiten.
 
-Planen Sie hierfür am ehesten vor dem Prüfungstermin ein Zeitfenster ein, um einerseits über die Regularien, Inhalte und Anforderungen zu informieren und andererseits um offene Fragen von den Studierenden zubeantworten.
+  Planen Sie hierfür am ehesten vor dem Prüfungstermin ein Zeitfenster ein, um einerseits über die Regularien, Inhalte und Anforderungen zu informieren und andererseits um offene Fragen von den Studierenden zubeantworten.
 
-Sie können hier zusätzlich die Themen der Prüfung hinterlegen oder Materialien zur Vorbereitung bereitstellen (Probeklausuren, Musterlösungen, Best-Practice-Beispielergebnisse, Leitfäden, Checklisten, Kriterienkatalog etc.).
-</div>
+  Sie können hier zusätzlich die Themen der Prüfung hinterlegen oder Materialien zur Vorbereitung bereitstellen (Probeklausuren, Musterlösungen, Best-Practice-Beispielergebnisse, Leitfäden, Checklisten, Kriterienkatalog etc.).
 </p>
 
-----------------------------------------------
-
 ## Prüfung
-<p>
-<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
-**Regieanweisungen für Lehrende**
 
-Je nachdem wie Ihre Prüfung konzpiert ist, können Sie diesen Bereich zur Bereitstellung von Unterlagen nutzen (z.B. Multiple-Choise-Test im LMS oder die Breitstellung von Online-Klausuren.) Zudem können alle organisatorischen Informationen zur Prüfung (Datum, zeitlicher Umfang, Prüfungsort, Prüfungsablauf, Art der Prüfung, Anzahl der Aufgaben, etc.) hinterlegt werden.
-</div>
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<p>
+  **Regieanweisungen für Lehrende**
+
+  Je nachdem wie Ihre Prüfung konzpiert ist, können Sie diesen Bereich zur Bereitstellung von Unterlagen nutzen (z.B. Multiple-Choise-Test im LMS oder die Breitstellung von Online-Klausuren.) Zudem können alle organisatorischen Informationen zur Prüfung (Datum, zeitlicher Umfang, Prüfungsort, Prüfungsablauf, Art der Prüfung, Anzahl der Aufgaben, etc.) hinterlegt werden.
 </p>
 
 ## Abschlussphase/Ergebnissicherung
-<p>
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
+<p>
 **Regieanweisung für Lehrende**
 
 Ziel dieser letzten Sitzung ist es, mit Rückbezug auf den Einstieg die gesamte Lerhveranstaltung zu rahmen. Hierbei werden a) Semesterinhalte rekapituliert, b) der rote Faden der Veranstaltung nachgezeichnet, c) die intendierten Lernziele aufgegriffen und d) Ergebnisse gesichert. Abschließend wird eine Bilianz gezogen und die gemeinsame Arbeit begutachtet. Zur Abschlussphase gehört es zudem, die Veranstaltung mit einer Verabschiedung zu schließen.
@@ -393,7 +402,7 @@ Die Autor:innen den Ouden und Rottlaender (2017) nennen in ihrem Arbeitsbuch zur
 
 *  *Abschließen* kann in Bezug auf die letzte Sitzung bedeuten, dass die zentralen Ergebnisse von der Lehrperson zusammengefasst und in Zusammenhänge oder andere Kontexte eingeordnet werden.
 *  *Sichern* kann sich auf die Lernzielerreichung der gesamten Lehrveranstaltung beziehen, wobei das Gelernte konkret auf Anwendungs-, Umsetzungs-, Transferbezüge hin überprüft werden kann.
-  *Öffnen* kann im Rahmen der letzten Sitzung auch Anregen bedeuten, sodass über den Tellerrand bzw. über die Lehrveranstaltung hinaus geschaut wird.
+*  *Öffnen* kann im Rahmen der letzten Sitzung auch Anregen bedeuten, sodass über den Tellerrand bzw. über die Lehrveranstaltung hinaus geschaut wird.
 
 Sichern Sie die Informationen der Sitzung für die Lerngruppe. Sollten Ergebnisse aus der Gruppe generiert werden, können diese im Nachgang digital zur Verfügung bereit werden.  So haben die Studierenden entweder im Rahmen und Verlauf ihres Studiums die Möglichkeit auf die Kernaspekte des Kurses zuzugreifen oder die Zusammenfassungen der Lehrveranstaltung konkret zur Prüfungsvorbereitung zu nutzen.
 
@@ -401,14 +410,11 @@ Sichern Sie die Informationen der Sitzung für die Lerngruppe. Sollten Ergebniss
 <div>
   ⚠️ Wichtig:
 
-Sie als Lehrperson gestalten den (Bilanzierungs-)Prozess. Das Schreiben einer Prüfung am Ende des Semesters stellt keine Abschlussphase dar.
-</div>
+  Sie als Lehrperson gestalten den (Bilanzierungs-)Prozess. Das Schreiben einer Prüfung am Ende des Semesters stellt keine Abschlussphase dar.
 </div>
 </p>
 
----------------------------------
-
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-Ziel dieser Abschlusssitzung ist es, ...
+  Ziel dieser Abschlusssitzung ist es, ...
 </div>

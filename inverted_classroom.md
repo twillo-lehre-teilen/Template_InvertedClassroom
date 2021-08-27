@@ -10,8 +10,11 @@
 # Template - Inverted Classroom
 
 - [Lizenzhinweis](#2)
-- [Was versteht man unter *Inverted Classroom*?](#3)
-- [Hinweise zur Nutzung des Templates](#4)
+- [Informationen für Lehrende](#3)
+
+  - [Was versteht man unter *Inverted Classroom*?](#3)
+  - [Hinweise zur Nutzung des Templates](#4)
+
 - [Kursinformation](#5)
 - [Einstiegsphase](#6)
 - [Themenblock 1](#7)
@@ -24,9 +27,7 @@
 
 Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
 
-##  Informationen für Lehrende
-
-**Was versteht man unter *Inverted Classroom*?**
+##  Was versteht man unter *Inverted Classroom*?
 
 Inverted Classroom ist ein spezifisches Lehr- und Lernkonzept des Blended Learning. Im Kern geht es darum, einer synchron stattfindenen Plenumssitzung eine asynchrone Selbstlernphase vorzuschalten. Die Inhaltserschließung erfolgt als asynchrone Selbstlernphase über ausgewählte und bereitgestellte bzw.  selbst erstellte Lehr- und Lernmaterialien. Mittels der Materialien eignen sich die Studierenden im Rahmen des Selbststudiums die Inhalte individuell und entsprechend ihres Lerntempos (und ggf. auch -niveaus) an. Die Phase der Inhaltsvertiefung findet in Präsenz bzw. in einem synchronen Setting statt. Sie wird von der Lehrperson moderiert  durch geeignete Lehrmethoden, die die Interaktivität der Studierenden fördern, didaktisch aufbereitet.
 

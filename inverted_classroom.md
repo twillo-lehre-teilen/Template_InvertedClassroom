@@ -100,7 +100,7 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 
 ![](docs/Introbild.svg)
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -153,7 +153,7 @@ Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
 
 ## Einstieg
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -223,7 +223,7 @@ Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sit
 
 ## Themenblock 1
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -316,7 +316,7 @@ Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht f
 
 ## Evaluation
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -355,7 +355,7 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 
 ## Prüfungsvorbereitung
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -371,7 +371,7 @@ Sie können hier zusätzlich die Themen der Prüfung hinterlegen oder Materialie
 
 ## Prüfung
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisungen für Lehrende**
 
@@ -381,7 +381,7 @@ Je nachdem wie Ihre Prüfung konzpiert ist, können Sie diesen Bereich zur Berei
 
 ## Abschlussphase/Ergebnissicherung
 <p>
-<!--  style = "background-color: red; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Regieanweisung für Lehrende**
 

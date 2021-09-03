@@ -54,7 +54,7 @@ In der synchronen Vertiefungsphase steht die didaktisch-methodische Gestaltung i
 *  Wie trainiere ich fachbezogene Fertigkeiten und Fähigkeiten?
 *  Wie sichere ich Lernergebnisse?
 
-In unserem [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) finden Sie hierfür verschiedene Methoden.
+In unserem [Methodenglossar](https://www.twillo.de/edu-sharing/components/render/72ec2e5c-9e23-49be-81d2-0da8ea7bf2cf) finden Sie hierfür verschiedene Methoden.
 
 -----------------------
 
@@ -133,7 +133,7 @@ Damit die Studierenden einschätzen können, welche Leistungen sie am Ende Ihrer
   **Fahrplan**<br>
 
   <!--  style = "color:red;" -->
-  - [Datei] einfügen
+  - [Vorlage Veranstaltungsübersicht](https://www.twillo.de/edu-sharing/components/render/e594fab0-e732-4aca-9e9f-04c531349f23)
 </div>
 
 
@@ -218,8 +218,8 @@ In der Einstiegsphase wird in das Thema der Veranstaltung eingeführt. Hier kön
 <div>
 Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sitzung lesen Sie sich bitte die Kursinformationen durch und bearbeiten Sie den Arbeitsauftrag, der dort hinterlegt ist.
 
-- [Veranstaltungsübersicht Inverted Classroom mit Beispielveranstaltung]()
-- [Foliensatz Inverted Classroom. Ein Lehr- und Lernkonzept (LIZENZ CC0)]()
+- [Advance Organizer für Inverted Classroom Lehr-Lernkonzepte](https://www.twillo.de/edu-sharing/components/render/eb8f03c2-1f38-4ae6-a30f-8e59fd9e5a26)
+- [Foliensatz Grundlagen Inverted Classroom](https://www.twillo.de/edu-sharing/components/render/acd8235e-298d-4cef-b328-3ab183195771)
 </div>
 
 ## Themenblock 1

@@ -25,12 +25,12 @@
 - [Abschlussphase/Ergebnissicherung](#11)
 
 ## Lizenzhinweis
-
+---
 Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
 
 
 ##  Was versteht man unter Inverted Classroom?
-
+---
 Inverted Classroom ist ein spezifisches Lehr- und Lernkonzept des Blended Learning. Im Kern geht es darum, einer synchron stattfindenen Plenumssitzung eine asynchrone Selbstlernphase vorzuschalten. Die Inhaltserschließung erfolgt als asynchrone Selbstlernphase über ausgewählte und bereitgestellte bzw.  selbst erstellte Lehr- und Lernmaterialien. Mittels der Materialien eignen sich die Studierenden im Rahmen des Selbststudiums die Inhalte individuell und entsprechend ihres Lerntempos (und ggf. auch -niveaus) an. Die Phase der Inhaltsvertiefung findet in Präsenz bzw. in einem synchronen Setting statt. Sie wird von der Lehrperson moderiert  durch geeignete Lehrmethoden, die die Interaktivität der Studierenden fördern, didaktisch aufbereitet.
 
 **Gelingensbedingungen für die Umsetzung**
@@ -73,7 +73,7 @@ In unserem [Methodenglossar](https://www.twillo.de/edu-sharing/components/render
 *__Schäfer, A. M. (2012):__ Das Inverted Classroom Model. In: Handke, J./Sperl, A. (Hrsg.): Das Inverted Classroom Model: Begleitband Zur Ersten Deutschen ICM-Konferenz. Münster, Oldenburg.*
 
 ## Hinweise zur Nutzung des Templates
-
+---
 Die konkrete Ausgestaltung des Inverted Classroom Konzepts kann sehr unterschiedlich erfolgen und hängt in erster Linie von den Lehr-/Lerninhalten ab, kann sich aber auch aus der jeweiligen Lehrveranstaltung selbst und deren curricularen Rahmenbedingungen ergeben. Mit dem **Template Inverted Classroom** wird der Versuch unternommen, wesentliche Strukturmerkmale - insbesondere die Phasenanordnung - in eine flexibel nutzbare Vorlage zu überführen. Es ist ein Angebot für die eigene Lehrgestaltung und eine Strukturierungshilfe bei der Lehrplanung. Das Template steht unter einer offenen Lizenz (CC 0), sodass die Anordnung verändert, Phasen herausgenommen oder weitere Elemente ergänzt werden können.
 
 Das Template Inverted Classroom besteht aus einem **Infobereich für Lehrende** (Was ist Inverted Classroom, Hinweise zur Nutzung), einem Bereich für die **Kursinformationen**, einem Bereich für die **Einstiegsphase** sowie zehn **Themenblöcken** für thematische Einheiten, in denen Abschnitte für asynchrone Selbstlernphasen und für synchrone Lehr-Lernsettings eingerichtet sind. Im **Themenblock 1** sind sowohl für die asynchrone Selbstlernphase als auch für die sychronen Lehr-Lernsettings Beispiele für die konkrete Ausgestaltung hinterlegt. Diese dienen lediglich als Impulse bzw. Ideenpool und müssen von Lehrenden entlang der eigenen Lehr- und Lernziele sowie Lehrinhalte konkretisiert werden. Des Weiteren sind auch Bereiche für **Evaluations- oder Reflexionszwecke**, für **Prüfungsvorbereitungen** bzw. **Prüfungen** sowie einem Bereich für die **Abschlussphase** vorangelegt.
@@ -82,8 +82,8 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 
 **Schritte für eine Nachnutzung:**
 
-1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen [GitHub-Account](https://github.com/). Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
-2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/Template_InvertedClassroom.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
+1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen GitHub-Account. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung](https://github.com/).
+2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: [https://github.com/twillo-lehre-teilen/Template_InvertedClassroom.git](https://github.com/twillo-lehre-teilen/Template_InvertedClassroom.git). Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
@@ -93,8 +93,8 @@ Für die Umsetzung empfiehlt es sich, die Lehrveranstaltung in logische Sinneinh
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 ## Kursinformationen
-
-![](docs/Introbild.svg)
+---
+![Introbild](docs/Introbild.svg)
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
@@ -152,7 +152,7 @@ Bearbeiten Sie diesen Arbeitsauftrag bis zur ersten gemeinsamen Sitzung.
 </div>
 
 ## Einstiegsphase
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -223,7 +223,7 @@ Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sit
 </div>
 
 ## Themenblock 1
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
   **Regieanweisungen für Lehrende**
@@ -236,8 +236,6 @@ Diese Veranstaltung findet in Präsenz im Plenum statt. Zur Vorbereitung der Sit
 
   Für das **synchrone Lehr-Lernsetting** planen Sie die festgelegten Inhalte der Selbstlernphase zu verstetigen. Hierbei ist es von Vorteil, dass die erarbeiteten Inhalte mit dem geplanten Vorgehen abgestimmt sind. Sollen zum Beispiel in der asynchronen Inhaltserarbeitung Vor- und Nachteile eines Modells herausgearbeitet werden, würde sich eine Pro-und Contra-Diskussion (evtl. mit verteilten Rollen) im aktiven Plenum anbieten. Was Sie in jedem Fall vermeiden sollten, ist eine Zusammenfassung der Inhalte oder zentralen Erkenntnisse. Wenn Sie darauf trotzdem nicht verzichten wollen, sollte die Zusammenfassung durch die Studierenden erfolgen. Snychonisierungsaktivitäten, d.h. den Wissensstand der Studierenden abzufragen, könnte hier als Alternative betrachtet werden. Am Ende der Plenumssitzung können - müssen aber nicht - die Aufgaben oder Materialien für die nächste Selbstlernphase vorbesprochen werden.
 </p>
-
--------
 
 **Digitale Selbstlernphase**
 ============================
@@ -336,7 +334,7 @@ Die Sitzung findet in Präsenz im Plenum statt. Der vorläufige Fahrplan sieht f
 </div>
 
 ## Evaluation
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -373,7 +371,7 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 </div>
 
 ## Prüfungsvorbereitung
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
   **Regieanweisungen für Lehrende**
@@ -386,7 +384,7 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 </p>
 
 ## Prüfung
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
   **Regieanweisungen für Lehrende**
@@ -395,7 +393,7 @@ Ziel dieser Phase ist es den Lernprozess und die bisherige Lehrveranstaltung zu 
 </p>
 
 ## Abschlussphase/Ergebnissicherung
-
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisung für Lehrende**

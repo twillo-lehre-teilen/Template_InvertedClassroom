@@ -10,24 +10,31 @@
 
 # Template - Inverted Classroom
 
-- [Lizenzhinweis](#2)
-- [Informationen für Lehrende](#3)
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>**Lizenzhinweis**
 
-  - [Was versteht man unter Inverted Classroom?](#3)
-  - [Hinweise zur Nutzung des Templates](#4)
 
-- [Kursinformation](#5)
-- [Einstiegsphase](#6)
-- [Themenblock 1](#7)
-- [Evaluation](#8)
-- [Prüfungsvorbereitung](#9)
-- [Prüfung](#10)
-- [Abschlussphase/Ergebnissicherung](#11)
-
-## Lizenzhinweis
----
+![CC 0 (1.0) Icon](docs/CC_0_ICON.svg)<!-- style = "text-align:center;" -->
 Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
+</div>
 
+- [Informationen für Lehrende](#2)
+
+  - [Was versteht man unter Inverted Classroom?](#2)
+  - [Hinweise zur Nutzung des Templates](#3)
+
+- [Kursinformation](#4)
+- [Einstiegsphase](#5)
+- [Themenblock 1](#6)
+- [Evaluation](#7)
+- [Prüfungsvorbereitung](#8)
+- [Prüfung](#9)
+- [Abschlussphase/Ergebnissicherung](#10)
+
+-------------
+Die Kursvorlage zählt aufgrund ihrer Lizenz zu den **Open Educational Resources (OER)**. Möchten auch Sie einen Beitrag zur offenen Hochschullehre leisten? Teilen Sie Ihre Lehrmaterialien auf dem OER-Portal twillo (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur).
+
+Sie haben Fragen zu OER im Allgemeinen oder zu diesem Template? Gern steht Ihnen das twillo-Team zur Verfügung. Sie erreichen uns via E-Mail an (mailto:support.twillo@tib.eu).
 
 ##  Was versteht man unter Inverted Classroom?
 ---

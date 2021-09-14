@@ -61,7 +61,7 @@ In der synchronen Vertiefungsphase steht die didaktisch-methodische Gestaltung i
 *  Wie trainiere ich fachbezogene Fertigkeiten und Fähigkeiten?
 *  Wie sichere ich Lernergebnisse?
 
-In unserem [Methodenglossar](https://www.twillo.de/edu-sharing/components/render/72ec2e5c-9e23-49be-81d2-0da8ea7bf2cf) finden Sie hierfür verschiedene Methoden.
+In unserem [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/./) finden Sie hierfür verschiedene Methoden.
 
 -----------------------
 

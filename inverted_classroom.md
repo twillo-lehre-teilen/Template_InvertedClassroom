@@ -15,7 +15,8 @@
 
 
 ![CC 0 (1.0) Icon](docs/CC_0_ICON.svg)<!-- style = "text-align:center;" -->
-Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.
+Die didaktische Vorlage Inverted Classroom von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente.<br>
+<b>Das GitHub-Repository zu diesem Kurs finden Sie [hier](https://github.com/twillo-lehre-teilen/Template_ForschendesLernen).</b>
 </div>
 
 - [Informationen für Lehrende](#2)

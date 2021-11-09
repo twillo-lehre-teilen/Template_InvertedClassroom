@@ -1,4 +1,23 @@
 <!--
+author:   twillo
+
+email:    support.twillo@tib.eu
+
+version:  1.0.0
+
+language: de
+
+narrator: Stina Schäfer, Lennart Rosseburg
+
+comment:  Die didaktische Vorlage Inverted Classroom von <b>[twillo](https://twillo.de/)</b> ist lizenziert unter der <b>[Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)</b>. Ausgenommen von der Lizenz sind explizit anders gekennzeichnete Elemente. <b>Das GitHub-Repository zu diesem Kurs finden Sie <b>[hier](https://github.com/twillo-lehre-teilen/Template_InvertedClassroom)</b>.
+
+mode:     Presentation
+
+link:     
+
+script:   
+-->
+<!--
   Einstellung der Sichtbarkeit von Regieanweisungen:
   - Die Regieanweisungen befinden sich direkt zu Beginn jeder Phase und sind umklammert von HTML p-tags (Bsp.: <p>...Regieanweisung...</p>)
   - Um die Sichtabrkeit zu ändern muss lediglich das Wort "hidden" dem vorangehenden p-tag hinzugefügt bzw. entfernt werden.
